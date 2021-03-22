@@ -1,0 +1,109 @@
+@import 'variables.scss';
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-weight: 500;
+}
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+  line-height: 24px;
+}
+body, html, ul {
+  padding: 0;
+  margin: 0;
+}
+body {
+  width: 100%;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-style: normal;
+    font-weight: 500;
+  }
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #000000;
+}
+.title1 {
+  font-size: 64px;
+  z-index: 10;
+}
+.title {
+  font-size: 48px;
+  line-height: 50px;
+  z-index: 10;
+}
+.text_size-xxl {
+  font-size: 36px;
+  line-height: 40px;
+}
+.text_size-xl {
+  font-size: 24px;
+  line-height: 30px;
+}
+.text_size-l {
+  font-size: 18px;
+  line-height: 24px;
+}
+.text_size-m {
+  font-size: 16px;
+  line-height: 24px;
+}
+.text_size-s {
+  font-size: 12px;
+  line-height: 20px;
+}
+fieldset {
+  border: none;
+}
+.paralax-effect {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+@keyframes spin {
+  0% {
+    transform: rotate(0deg)
+  }
+  100% {
+    transform: rotate(360deg)
+  }
+}
+.preloader {
+  animation: spin 1s infinite linear;
+  border: 2px solid rgba(30, 30, 30, 0.5);
+  border-left: 4px solid #fff;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  top: 50%;
+  left: 50%;
+  margin-left: -25px;
+}
+.preloader--relative {
+  position: relative
+}
+.preloader--fullpage {
+  position: absolute
+}
+.loading {
+  opacity: 0.3;
+  pointer-events: none;
+}
+input {
+  &:focus {
+    outline: none;
+  }
+}

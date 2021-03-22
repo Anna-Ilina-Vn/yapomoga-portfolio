@@ -1,0 +1,128 @@
+{
+  "NavLinks": {
+    "description": "Auto imported from /components/Nav-links.vue"
+  },
+  "LazyNavLinks": {
+    "description": "Auto imported from /components/Nav-links.vue"
+  },
+  "Organizations": {
+    "description": "Auto imported from /components/Organizations.vue"
+  },
+  "LazyOrganizations": {
+    "description": "Auto imported from /components/Organizations.vue"
+  },
+  "Partners": {
+    "description": "Auto imported from /components/Partners.vue"
+  },
+  "LazyPartners": {
+    "description": "Auto imported from /components/Partners.vue"
+  },
+  "IButton": {
+    "description": "Auto imported from /components/i-button.vue"
+  },
+  "LazyIButton": {
+    "description": "Auto imported from /components/i-button.vue"
+  },
+  "IFooter": {
+    "description": "Auto imported from /components/i-footer.vue"
+  },
+  "LazyIFooter": {
+    "description": "Auto imported from /components/i-footer.vue"
+  },
+  "IHeader": {
+    "description": "Auto imported from /components/i-header.vue"
+  },
+  "LazyIHeader": {
+    "description": "Auto imported from /components/i-header.vue"
+  },
+  "LangSwitcher": {
+    "description": "Auto imported from /components/lang-switcher.vue"
+  },
+  "LazyLangSwitcher": {
+    "description": "Auto imported from /components/lang-switcher.vue"
+  },
+  "IAccordionItem": {
+    "description": "Auto imported from /components/accordion/i-accordion-item.vue"
+  },
+  "LazyIAccordionItem": {
+    "description": "Auto imported from /components/accordion/i-accordion-item.vue"
+  },
+  "IAccordion": {
+    "description": "Auto imported from /components/accordion/i-accordion.vue"
+  },
+  "LazyIAccordion": {
+    "description": "Auto imported from /components/accordion/i-accordion.vue"
+  },
+  "ITimeline": {
+    "description": "Auto imported from /components/timeline/i-timeline.vue"
+  },
+  "LazyITimeline": {
+    "description": "Auto imported from /components/timeline/i-timeline.vue"
+  },
+  "ProductDetails": {
+    "description": "Auto imported from /components/product-details/ProductDetails.vue"
+  },
+  "LazyProductDetails": {
+    "description": "Auto imported from /components/product-details/ProductDetails.vue"
+  },
+  "CommonProductsListPage": {
+    "description": "Auto imported from /components/products-list/CommonProductsListPage.vue"
+  },
+  "LazyCommonProductsListPage": {
+    "description": "Auto imported from /components/products-list/CommonProductsListPage.vue"
+  },
+  "MiniCommonProductsListPage": {
+    "description": "Auto imported from /components/products-list/MiniCommonProductsListPage.vue"
+  },
+  "LazyMiniCommonProductsListPage": {
+    "description": "Auto imported from /components/products-list/MiniCommonProductsListPage.vue"
+  },
+  "ProductListCard": {
+    "description": "Auto imported from /components/products-list/ProductListCard.vue"
+  },
+  "LazyProductListCard": {
+    "description": "Auto imported from /components/products-list/ProductListCard.vue"
+  },
+  "ProductsList": {
+    "description": "Auto imported from /components/products-list/ProductsList.vue"
+  },
+  "LazyProductsList": {
+    "description": "Auto imported from /components/products-list/ProductsList.vue"
+  },
+  "ProductsListFilter": {
+    "description": "Auto imported from /components/products-list/ProductsListFilter.vue"
+  },
+  "LazyProductsListFilter": {
+    "description": "Auto imported from /components/products-list/ProductsListFilter.vue"
+  },
+  "RateList": {
+    "description": "Auto imported from /components/user-details/RateList.vue"
+  },
+  "LazyRateList": {
+    "description": "Auto imported from /components/user-details/RateList.vue"
+  },
+  "ReferalProgram": {
+    "description": "Auto imported from /components/user-details/ReferalProgram.vue"
+  },
+  "LazyReferalProgram": {
+    "description": "Auto imported from /components/user-details/ReferalProgram.vue"
+  },
+  "UserHistory": {
+    "description": "Auto imported from /components/user-details/UserHistory.vue"
+  },
+  "LazyUserHistory": {
+    "description": "Auto imported from /components/user-details/UserHistory.vue"
+  },
+  "UserNav": {
+    "description": "Auto imported from /components/user-details/UserNav.vue"
+  },
+  "LazyUserNav": {
+    "description": "Auto imported from /components/user-details/UserNav.vue"
+  },
+  "UserPhoto": {
+    "description": "Auto imported from /components/user-details/UserPhoto.vue"
+  },
+  "LazyUserPhoto": {
+    "description": "Auto imported from /components/user-details/UserPhoto.vue"
+  }
+}

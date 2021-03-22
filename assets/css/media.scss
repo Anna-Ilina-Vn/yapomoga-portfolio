@@ -1,0 +1,30 @@
+.nav__list {
+  display: flex;
+}
+@media screen and (min-width: 1024px) and (max-width: 1240px),
+screen and (min-width: 768px) and (max-width: 1024px),
+screen and (max-width: 768px) {
+  .nav__list {
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .nav__list {
+    display: none;
+  }
+
+  .descr__video {
+    width: 100px;
+  }
+  
+  .partners {
+    img {
+      width: 100px;
+    }
+  }
+
+  .donate {
+    display: none;
+  }
+}
+

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "cases___ua",
+    "path": "/cases",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/cases.vue",
+    "chunkName": "pages/cases",
+    "_name": "_5e2ee5a6"
+  },
+  {
+    "name": "chavo___ua",
+    "path": "/chavo",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/chavo.vue",
+    "chunkName": "pages/chavo",
+    "_name": "_cc1e0c90"
+  },
+  {
+    "name": "login___ua",
+    "path": "/login",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_62ad3268"
+  },
+  {
+    "name": "recover-password___ua",
+    "path": "/recover-password",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/recover-password.vue",
+    "chunkName": "pages/recover-password",
+    "_name": "_d5ee995e"
+  },
+  {
+    "name": "register___ua",
+    "path": "/register",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_31c2ae90"
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0501c3b5"
+  },
+  {
+    "name": "cases___ru",
+    "path": "/ru/cases",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/cases.vue",
+    "chunkName": "pages/cases",
+    "_name": "_5e2ee5a6"
+  },
+  {
+    "name": "chavo___ru",
+    "path": "/ru/chavo",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/chavo.vue",
+    "chunkName": "pages/chavo",
+    "_name": "_cc1e0c90"
+  },
+  {
+    "name": "login___ru",
+    "path": "/ru/login",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_62ad3268"
+  },
+  {
+    "name": "recover-password___ru",
+    "path": "/ru/recover-password",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/recover-password.vue",
+    "chunkName": "pages/recover-password",
+    "_name": "_d5ee995e"
+  },
+  {
+    "name": "register___ru",
+    "path": "/ru/register",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_31c2ae90"
+  },
+  {
+    "name": "users-user-details___ua",
+    "path": "/users/user-details",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/users/user-details.vue",
+    "chunkName": "pages/users/user-details",
+    "_name": "_69706e94"
+  },
+  {
+    "name": "users-user-settings___ua",
+    "path": "/users/user-settings",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/users/user-settings.vue",
+    "chunkName": "pages/users/user-settings",
+    "_name": "_dbcf7c7e"
+  },
+  {
+    "name": "users-user-details___ru",
+    "path": "/ru/users/user-details",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/users/user-details.vue",
+    "chunkName": "pages/users/user-details",
+    "_name": "_69706e94"
+  },
+  {
+    "name": "users-user-settings___ru",
+    "path": "/ru/users/user-settings",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/users/user-settings.vue",
+    "chunkName": "pages/users/user-settings",
+    "_name": "_dbcf7c7e"
+  },
+  {
+    "name": "categories-category___ru",
+    "path": "/ru/categories/:category?",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/categories/_category.vue",
+    "chunkName": "pages/categories/_category",
+    "_name": "_0b5859d2"
+  },
+  {
+    "name": "products-product___ru",
+    "path": "/ru/products/:product?",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/products/_product.vue",
+    "chunkName": "pages/products/_product",
+    "_name": "_febccc44"
+  },
+  {
+    "name": "categories-category___ua",
+    "path": "/categories/:category?",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/categories/_category.vue",
+    "chunkName": "pages/categories/_category",
+    "_name": "_0b5859d2"
+  },
+  {
+    "name": "products-product___ua",
+    "path": "/products/:product?",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/products/_product.vue",
+    "chunkName": "pages/products/_product",
+    "_name": "_febccc44"
+  },
+  {
+    "name": "index___ua",
+    "path": "/",
+    "component": "/Users/mac/Desktop/projects/yapomoga/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0501c3b5"
+  }
+]
